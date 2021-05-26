@@ -24,13 +24,13 @@ func main() {
 
 	// detect
 	if age < 5 || age > 95 {
-		// 
+		// free
 		fmt.Println("You get in for free.")
 	} else if (day == "tuesday" || day == "thursday") || (age > 12 && age < 21) {
-		// 
+		// student pricing
 		fmt.Println("You are eligible for student pricing.")
 	} else {
-		//
+		// regular price
 		fmt.Println("You must pay regular price.")
 	}
 
