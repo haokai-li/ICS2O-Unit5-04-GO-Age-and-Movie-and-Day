@@ -1,1 +1,2 @@
 # ICS2O-Unit5-04-GO-Age-and-Movie-and-Day
+[![GitHub's Super Linter](https://github.com/haokai-li/ICS2O-Unit5-04-GO-Age-and-Movie-and-Day/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/haokai-li/ICS2O-Unit5-04-GO-Age-and-Movie-and-Day/actions)
